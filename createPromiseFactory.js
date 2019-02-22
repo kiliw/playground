@@ -39,6 +39,4 @@ const createPromise = executor => {
   }
 }
 
-const createRealPromise = executor => new Promise(executor)
-
-module.exports = { createPromise, createRealPromise }
+module.exports = { createPromise }
