@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "onchange 'src/**.js' -- node src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiliw/playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiliw/playground/issues"
+  },
+  "homepage": "https://github.com/kiliw/playground#readme",
+  "devDependencies": {
+    "onchange": "^5.2.0"
+  }
+}
