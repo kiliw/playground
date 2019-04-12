@@ -1,0 +1,15 @@
+{
+  "name": "playground",
+  "version": "0.0.1",
+  "description": "A simple playground",
+  "main": "index.js",
+  "repository": "git@github.com:kiliw/playground.git",
+  "author": "kiliw <kilocheat@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.16.4",
+    "tslint": "^5.15.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^3.4.3"
+  }
+}
